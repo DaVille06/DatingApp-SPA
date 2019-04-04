@@ -1,10 +1,7 @@
-﻿# DatingApp-SPA
+# DatingAppSPA
 This is from the Udemy course listed below, which focuses on writing a .Net Core Web Api using Angular.
 
 https://www.udemy.com/share/1000awB0sedVhQRXg=/
-
-# DatingAppSPA
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
